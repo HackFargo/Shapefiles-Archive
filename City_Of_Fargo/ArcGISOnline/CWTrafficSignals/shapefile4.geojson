@@ -1,0 +1,1280 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819806,
+                    46.834974,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.85097,
+                    46.851584,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.85114,
+                    46.851556,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.85114,
+                    46.851562,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.851298,
+                    46.851567,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.783788,
+                    46.872217,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.783761,
+                    46.872068,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787844,
+                    46.890202,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787677,
+                    46.885146,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40008"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.881343,
+                    46.813868,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40009"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.878255,
+                    46.814081,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40010"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.850323,
+                    46.81498,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40011"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.854174,
+                    46.815451,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40012"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.850669,
+                    46.815283,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40013"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.813165,
+                    46.793808,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40014"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.776724,
+                    46.913498,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40015"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.776861,
+                    46.916555,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40016"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.818894,
+                    46.794694,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40017"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.818929,
+                    46.800965,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40018"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.822185,
+                    46.890534,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40019"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.825451,
+                    46.890191,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40020"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.825526,
+                    46.890289,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40021"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797641,
+                    46.854394,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40022"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797792,
+                    46.854282,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40023"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.79735,
+                    46.851988,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40024"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797347,
+                    46.85186,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40025"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.82541,
+                    46.887026,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40026"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.825637,
+                    46.888663,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40027"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.805381,
+                    46.854395,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40028"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.808896,
+                    46.854257,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40029"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.784975,
+                    46.873209,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40030"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.785232,
+                    46.873316,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40031"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.813234,
+                    46.792822,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40032"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.813271,
+                    46.79545,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40033"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.812901,
+                    46.795674,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40034"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.808053,
+                    46.797807,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40035"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.850267,
+                    46.812104,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40036"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787655,
+                    46.884091,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40037"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787753,
+                    46.884071,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40038"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787765,
+                    46.884148,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40039"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787865,
+                    46.88414,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40040"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.791671,
+                    46.861539,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40041"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.789171,
+                    46.861641,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40042"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.785553,
+                    46.870727,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40043"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.78555,
+                    46.870778,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40044"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819471,
+                    46.818906,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40045"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.824473,
+                    46.817971,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40046"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819118,
+                    46.816156,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40047"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.818231,
+                    46.818067,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40048"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.831533,
+                    46.90511,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40049"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.831905,
+                    46.904882,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40050"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.784698,
+                    46.884105,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40051"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.784698,
+                    46.884186,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40052"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798399,
+                    46.875825,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40053"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.806747,
+                    46.861647,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40054"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.810737,
+                    46.861498,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40055"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.779965,
+                    46.875965,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40056"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.781748,
+                    46.888405,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40057"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.781597,
+                    46.886912,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40058"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793728,
+                    46.886915,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40059"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793887,
+                    46.886924,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40060"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787446,
+                    46.900312,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40061"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787555,
+                    46.903631,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40062"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819476,
+                    46.817482,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40063"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.818989,
+                    46.813814,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40064"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.839481,
+                    46.875871,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40065"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.842116,
+                    46.875861,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40066"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.789078,
+                    46.848571,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40067"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.78903,
+                    46.848754,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40068"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.841922,
+                    46.850035,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40069"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.841684,
+                    46.850005,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40070"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798824,
+                    46.850123,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40071"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798898,
+                    46.849777,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40072"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798995,
+                    46.849815,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40073"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.841662,
+                    46.861502,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle40",
+                "styleHash": "696f155c",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>ProjectNumber</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_40074"
+        }
+    ]
+}

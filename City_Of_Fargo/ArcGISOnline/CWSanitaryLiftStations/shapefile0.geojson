@@ -1,0 +1,1210 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.840743,
+                    46.819936,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 49",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.808553,
+                    46.792743,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 51",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.86549,
+                    46.8902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 42",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.850346,
+                    46.872789,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 22",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.809117,
+                    46.843459,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 15",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.832527,
+                    46.883531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 12",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.833901,
+                    46.832871,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 25",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819384,
+                    46.905351,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 23",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.815627,
+                    46.745885,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 47",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00008"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819727,
+                    46.767257,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 36",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00009"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798277,
+                    46.766725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 40",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00010"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798251,
+                    46.772078,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 44",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00011"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798362,
+                    46.778101,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 37",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00012"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.832113,
+                    46.799116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 34",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00013"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.862389,
+                    46.843506,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 48",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00014"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.818549,
+                    46.873153,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 6",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00015"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.834142,
+                    46.817971,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 33",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00016"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.85101,
+                    46.833043,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 46",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00017"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.805369,
+                    46.953492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 32",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00018"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.807123,
+                    46.963034,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 31",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00019"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798133,
+                    46.936068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 29",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00020"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.829293,
+                    46.933486,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 18",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00021"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.768894,
+                    46.919261,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 21",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00022"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.782857,
+                    46.877155,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 2",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00023"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.784807,
+                    46.871974,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 1",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00024"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.841725,
+                    46.891508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 16",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00025"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795071,
+                    46.882459,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 8",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00026"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.814822,
+                    46.88295,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 7",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00027"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.814019,
+                    46.879625,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 30",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00028"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.851405,
+                    46.883588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 24",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00029"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.861931,
+                    46.897514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 45",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00030"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.863275,
+                    46.86707,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 43",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00031"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.84252,
+                    46.858703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 20",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00032"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.861532,
+                    46.854788,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 26",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00033"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797886,
+                    46.835071,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 10",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00034"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.791533,
+                    46.835785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 11",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00035"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819696,
+                    46.817638,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 28",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00036"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786985,
+                    46.924525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 5",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00037"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.835993,
+                    46.790481,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 58",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00038"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797539,
+                    46.905959,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 14",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00039"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.857514,
+                    46.835512,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 60",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00040"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.839935,
+                    46.970561,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 59",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00041"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.869907,
+                    46.922318,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 55",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00042"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.798167,
+                    46.730603,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 57",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00043"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.809702,
+                    46.673695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 56",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00044"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.808809,
+                    46.905068,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 13",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00045"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8918,
+                    46.799055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 62",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00046"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.804186,
+                    46.765097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 63",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00047"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.820103,
+                    46.853931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 19",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00048"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.881344,
+                    46.981625,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 64",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00049"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.881952,
+                    46.951566,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 67",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00050"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.864283,
+                    46.924387,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 50",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00051"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.867475,
+                    46.929995,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 52",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00052"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.876169,
+                    46.813413,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 53",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00053"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.892354,
+                    46.81797,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 54",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00054"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.778393,
+                    46.88492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 3",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00055"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.802442,
+                    46.771064,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 39",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00056"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.893874,
+                    46.977388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 65",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00057"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.888953,
+                    46.980791,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 66",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00058"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.89581,
+                    47.002283,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 68",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00059"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.879991,
+                    46.987951,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 69",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00060"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819273,
+                    46.836243,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # FIS#1",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00061"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.879672,
+                    46.83725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 70",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00062"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.839629,
+                    46.933286,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 61",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00063"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.776557,
+                    46.900069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 4",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00064"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.804937,
+                    46.813567,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lift # 9",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00065"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.768632,
+                    46.92308,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle00",
+                "styleHash": "-527dacdd",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>69</td></tr><tr><td>LiftStationNumber</td><td>49</td></tr></table></body></html>"
+            },
+            "id": "ID_00066"
+        }
+    ]
+}

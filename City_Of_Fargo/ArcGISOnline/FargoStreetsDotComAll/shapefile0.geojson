@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.833887,
+                    46.878432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "1st Avenue North closed between ",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "6ad91a43",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.828317,
+                    46.80382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Four-way stop temporarily instal",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "6ad91a43",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.800295,
+                    46.904813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "19th Avenue North to close betwe",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "6ad91a43",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794061,
+                    46.875477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "10th Street Underpass Maintenanc",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "6ad91a43",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.81976,
+                    46.84996,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "This is a test notification of 2",
+                "styleUrl": "#IconStyle04",
+                "styleHash": "32a26769",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819803,
+                    46.844413,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "This is another test notificatio",
+                "styleUrl": "#IconStyle04",
+                "styleHash": "32a26769",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.807978,
+                    46.865681,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Test #5",
+                "styleUrl": "#IconStyle04",
+                "styleHash": "32a26769",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.879623,
+                    46.843915,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Intersection at 23rd Avenue Sout",
+                "styleUrl": "#IconStyle04",
+                "styleHash": "32a26769",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.809169,
+                    46.770864,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "This is just another test.",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "6ad91a43",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>401</td></tr><tr><td>Announcement Header</td><td>1st Avenue North closed between </td></tr></table></body></html>"
+            },
+            "id": "ID_00008"
+        }
+    ]
+}

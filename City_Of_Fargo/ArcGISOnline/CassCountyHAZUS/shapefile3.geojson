@@ -1,0 +1,185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.81002,
+                    46.788447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Water Tower #10",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "2412172b",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.803413,
+                    46.828335,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Water Tower #9",
+                "styleUrl": "#IconStyle31",
+                "styleHash": "-2538b889",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.831902,
+                    46.832117,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Water Tower #6",
+                "styleUrl": "#IconStyle32",
+                "styleHash": "1102c7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794885,
+                    46.915393,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Water Tower #5",
+                "styleUrl": "#IconStyle33",
+                "styleHash": "-a28cd07",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.844552,
+                    46.630541,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Minnkota Power",
+                "styleUrl": "#IconStyle34",
+                "styleHash": "-506566d0",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.944214,
+                    47.085744,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tower",
+                "styleUrl": "#IconStyle34",
+                "styleHash": "-506566d0",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.096095,
+                    46.875124,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cell Tower",
+                "styleUrl": "#IconStyle34",
+                "styleHash": "-506566d0",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.88318,
+                    46.77571,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cell Tower",
+                "styleUrl": "#IconStyle34",
+                "styleHash": "-506566d0",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.930536,
+                    46.820801,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cell Tower",
+                "styleUrl": "#IconStyle34",
+                "styleHash": "-506566d0",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30008"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.837669,
+                    46.739101,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cell Tower",
+                "styleUrl": "#IconStyle34",
+                "styleHash": "-506566d0",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Final Name</td><td>Water Tower #10</td></tr></table></body></html>"
+            },
+            "id": "ID_30009"
+        }
+    ]
+}

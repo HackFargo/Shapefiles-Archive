@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.84262,
+                    46.891209,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786477,
+                    46.881654,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794164,
+                    46.896396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.860873,
+                    46.86713,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.81325,
+                    46.855538,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.803392,
+                    46.828337,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.799666,
+                    46.802218,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.831935,
+                    46.832128,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.809969,
+                    46.788451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30008"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.854646,
+                    46.830962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30009"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794948,
+                    46.915407,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30010"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795846,
+                    46.882817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WT",
+                "styleUrl": "#IconStyle30",
+                "styleHash": "-4d288e62",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>5523</td></tr><tr><td>REFNAME</td><td>WT</td></tr></table></body></html>"
+            },
+            "id": "ID_30011"
+        }
+    ]
+}
