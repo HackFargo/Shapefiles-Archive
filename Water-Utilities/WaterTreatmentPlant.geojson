@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ProjectRet": null, "YearRetire": null, "Comments": null, "Status": "Active", "Consequenc": 0.000000, "Probabilit": 0.000000, "Mitigation": 0.000000, "Risk": 0.000000, "EstimatedL": 0, "Installati": null, "Replacemen": 0.000000, "CostingDat": null, "Asset_ID": "WMTP0000001", "created_us": "SA", "created_da": "2014\/04\/16", "last_edite": "SA", "last_edi_1": "2014\/04\/16" }, "geometry": { "type": "Point", "coordinates": [ -96.786216663635599, 46.860220031822664 ] } }
+]
+}
