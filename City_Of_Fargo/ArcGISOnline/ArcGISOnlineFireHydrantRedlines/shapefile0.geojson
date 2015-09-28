@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.877882,
+                    46.832517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.877821,
+                    46.831509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.878143,
+                    46.82649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.879041,
+                    46.827391,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.872233,
+                    46.80543,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.887501,
+                    46.803181,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.879786,
+                    46.802998,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.892033,
+                    46.804191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.875486,
+                    46.821937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00008"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.878944,
+                    46.819886,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00009"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.878228,
+                    46.819263,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00010"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.878267,
+                    46.819854,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00011"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.878844,
+                    46.819272,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New",
+                "styleUrl": "#IconStyle00",
+                "styleHash": "27ec288a",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>11205</td></tr><tr><td>NewRemove</td><td>New</td></tr></table></body></html>"
+            },
+            "id": "ID_00012"
+        }
+    ]
+}

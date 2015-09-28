@@ -1,0 +1,2183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797708,
+                    46.934571,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001955",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794755,
+                    46.936858,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003729",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795471,
+                    46.934874,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006016",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795386,
+                    46.935847,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003728",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10003"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794849,
+                    46.936442,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003730",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10004"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793666,
+                    46.940315,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0008522",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10005"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.792882,
+                    46.93831,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0008211",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10006"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794751,
+                    46.93743,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000250",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10007"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794559,
+                    46.937803,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000249",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10008"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794609,
+                    46.937788,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000248",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10009"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794393,
+                    46.938306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000247",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10010"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794433,
+                    46.938738,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000246",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10011"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794552,
+                    46.93919,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003905",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10012"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794884,
+                    46.93959,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003906",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10013"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795133,
+                    46.940109,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001596",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10014"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.795253,
+                    46.940488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001595",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10015"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794994,
+                    46.936853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002683",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10016"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797592,
+                    46.935844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001956",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10017"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797528,
+                    46.936856,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003731",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10018"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.796989,
+                    46.938294,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000251",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10019"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797647,
+                    46.939588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003907",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10020"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797678,
+                    46.940095,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0008621",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10021"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797678,
+                    46.937401,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003904",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10022"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797692,
+                    46.936017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003253",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10023"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.81912,
+                    46.941151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0008217",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10024"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.840121,
+                    46.939695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0010632",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10025"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.840107,
+                    46.937402,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0010634",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10026"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.832586,
+                    46.934343,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003895",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10027"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.832627,
+                    46.940448,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0008310",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10028"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.829239,
+                    46.933626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000451",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10029"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.829169,
+                    46.933594,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000450",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10030"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.829196,
+                    46.933613,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002400",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10031"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.827553,
+                    46.933589,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0004",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10032"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.826397,
+                    46.933577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002414",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10033"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.82466,
+                    46.933519,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000448",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10034"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.824592,
+                    46.933638,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000449",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10035"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.822298,
+                    46.936333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0004105",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10036"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.819849,
+                    46.939029,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002410",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10037"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794532,
+                    46.933334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001954",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10038"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.794035,
+                    46.927175,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001953",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10039"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793628,
+                    46.926878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002457",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10040"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793028,
+                    46.926446,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002456",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10041"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.792786,
+                    46.92629,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002455",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10042"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.792004,
+                    46.925808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001950",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10043"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.792042,
+                    46.925783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001951",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10044"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.792089,
+                    46.925786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0003932",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10045"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.788001,
+                    46.925751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001952",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10046"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787755,
+                    46.925486,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0008145",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10047"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786795,
+                    46.925013,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0011967",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10048"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786453,
+                    46.922645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005349",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10049"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786327,
+                    46.922404,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005354",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10050"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786404,
+                    46.922403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005344",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10051"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.780994,
+                    46.919427,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005328",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10052"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.781007,
+                    46.922382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005342",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10053"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.780882,
+                    46.91938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005327",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10054"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.783499,
+                    46.919359,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006360",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10055"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.783543,
+                    46.919355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006359",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10056"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.783609,
+                    46.919351,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005329",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10057"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787181,
+                    46.9194,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005332",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10058"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787205,
+                    46.919411,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005331",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10059"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787465,
+                    46.919396,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006661",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10060"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.787004,
+                    46.92017,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0011966",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10061"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.786955,
+                    46.92046,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002069",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10062"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.790156,
+                    46.920586,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002947",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10063"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.789867,
+                    46.920645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002946",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10064"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.789378,
+                    46.920584,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002948",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10065"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.789392,
+                    46.920591,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002948",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10066"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.797676,
+                    46.919212,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002944",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10067"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793528,
+                    46.919233,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002943",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10068"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793416,
+                    46.919226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002942",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10069"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.793335,
+                    46.919245,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0011038",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10070"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.792228,
+                    46.919234,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0010449",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10071"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.766771,
+                    46.919376,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001936",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10072"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.766963,
+                    46.919393,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000408",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10073"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.76419,
+                    46.919443,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006651",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10074"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.768903,
+                    46.919482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000410",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10075"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.770759,
+                    46.919484,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000412",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10076"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.771004,
+                    46.919467,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000413",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10077"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.772911,
+                    46.919484,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000414",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10078"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773439,
+                    46.919452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0004549",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10079"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.76942,
+                    46.92485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000387",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10080"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.769635,
+                    46.924849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000386",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10081"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.76942,
+                    46.925907,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0004550",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10082"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.769644,
+                    46.925765,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000377",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10083"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.770322,
+                    46.926626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006660",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10084"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7753,
+                    46.923837,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000379",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10085"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773341,
+                    46.92496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000378",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10086"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773323,
+                    46.923676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000383",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10087"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773322,
+                    46.923643,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000384",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10088"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.77358,
+                    46.923671,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000382",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10089"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.774402,
+                    46.923844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000381",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10090"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.772375,
+                    46.924279,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000376",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10091"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.771743,
+                    46.923484,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000385",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10092"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.772041,
+                    46.922882,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000388",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10093"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.776808,
+                    46.922791,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005337",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10094"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.776607,
+                    46.922776,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005336",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10095"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773586,
+                    46.922794,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000391",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10096"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773348,
+                    46.92274,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000392",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10097"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.772269,
+                    46.922786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000393",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10098"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773339,
+                    46.922941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000389",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10099"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773324,
+                    46.920478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000416",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10100"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773956,
+                    46.919455,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000415",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10101"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.77425,
+                    46.919447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000417",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10102"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.775309,
+                    46.919453,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000418",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10103"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.775326,
+                    46.919482,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000419",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10104"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.775568,
+                    46.919449,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0000420",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10105"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.776785,
+                    46.919389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0005322",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10106"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7673,
+                    46.917059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006640",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10107"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.770285,
+                    46.916496,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006639",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10108"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.770777,
+                    46.917285,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006642",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10109"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.769386,
+                    46.91734,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0001937",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10110"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.771018,
+                    46.917325,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006643",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10111"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.771554,
+                    46.915058,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006634",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10112"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.771575,
+                    46.912669,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006626",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10113"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.767429,
+                    46.913365,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006633",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10114"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.770344,
+                    46.91518,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0002692",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10115"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.770281,
+                    46.917325,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006641",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10116"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.772152,
+                    46.915069,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006635",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10117"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.774752,
+                    46.912495,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006631",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10118"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.773433,
+                    46.912509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006629",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10119"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.772087,
+                    46.912515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "WMVALVE0006627",
+                "styleUrl": "#IconStyle10",
+                "styleHash": "42fca7eb",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>ObjectId</td><td>1334187</td></tr><tr><td>ValveId</td><td>WMVALVE0001955</td></tr></table></body></html>"
+            },
+            "id": "ID_10120"
+        }
+    ]
+}

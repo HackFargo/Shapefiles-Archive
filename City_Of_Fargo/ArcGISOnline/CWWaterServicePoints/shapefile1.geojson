@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.828776,
+                    46.803054,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle10",
+                "styleHash": "6ca69656",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>30248</td></tr><tr><td>Name</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_10000"
+        }
+    ]
+}

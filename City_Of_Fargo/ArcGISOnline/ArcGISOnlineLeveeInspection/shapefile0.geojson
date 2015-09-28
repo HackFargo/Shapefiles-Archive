@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.830383,
+                    46.774749,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle00",
+                "styleHash": "4291d0a5",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Levee Name or Location</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_00000"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.811101,
+                    46.966416,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle00",
+                "styleHash": "4291d0a5",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Levee Name or Location</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_00001"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.896306,
+                    46.882633,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle00",
+                "styleHash": "4291d0a5",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Levee Name or Location</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_00002"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.783862,
+                    46.871422,
+                    0
+                ]
+            },
+            "properties": {
+                "styleUrl": "#IconStyle00",
+                "styleHash": "4291d0a5",
+                "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>OBJECTID</td><td>1</td></tr><tr><td>Levee Name or Location</td><td>Null</td></tr></table></body></html>"
+            },
+            "id": "ID_00003"
+        }
+    ]
+}
